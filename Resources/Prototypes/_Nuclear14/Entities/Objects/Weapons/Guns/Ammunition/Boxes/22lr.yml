@@ -9,7 +9,7 @@
       tags:
         - N14CartridgePistol22
     proto: N14CartridgePistol22
-    capacity: 75
+    capacity: 200
   - type: ContainerContainer
     containers:
       ballistic-ammo: !type:Container
